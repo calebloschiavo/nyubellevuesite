@@ -1,0 +1,84 @@
+#sentence-1 {
+	color: rgb(87,6,140);
+}
+
+.sentence-2 {
+	color:rgb(74,79,85);
+}
+
+#tab-header {
+	text-align: center;
+	margin-top: 50px;
+}
+
+.contact-us {
+	margin-top: 150px;
+}
+
+.glyphicon {
+	font-size: 40px;
+	display: block;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.contact-info {
+	font-weight: bold;
+	text-align: center;
+}
+
+.person-name{
+	font-weight: bold;
+	text-align: left;
+}
+
+.person-title{
+	font-style: italic;
+	text-align: left;
+}
+
+.person-bio{
+	text-align: justify;
+}
+
+.biopic {
+	display: inline;
+	margin-bottom: 10px;
+	height: auto;
+	width: 250px;
+	text-align: center;
+}
+
+.year-link {
+	font-weight: bolder;
+	text-align: center;
+	font-size: 27px;
+}
+
+.newstext{
+	text-align: justify;
+}
+
+#footer {
+	position: static;
+	left: 0px;
+	bottom: 0px;
+	height: 30px;
+	width: 100%;
+	background-color: rgb(87, 6, 140);
+}
+
+.footer-text {
+	color: rgba(147, 154, 144, 0.8);
+	font-weight: bold;
+}
+
+.research-head {
+	font-weight: bold;
+	text-align: center;
+	font-size: 16px;
+}
+
+.research-text {
+	text-align: justify;
+}
